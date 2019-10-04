@@ -1,0 +1,29 @@
+body{
+    width: 100%
+} 
+nav{
+	background-color: white;
+	display: flex;
+}
+nav div.logo{
+	margin-right: 10ox;
+	display: inline;
+}
+nav div div{
+	margin-left: 10px;
+	color: black;
+	border: 1px solid rgb(117, 116, 116);
+}
+div.nav1 p{
+	background-color: #0000ff;
+	color: white;
+	margin-right: 10px;
+	margin-left: 40px;
+	padding: 10px;
+}
+div#section-0 h3{
+	color: rgb(22, 29, 22);
+	text-align: center;
+}
+#section-0 
+
